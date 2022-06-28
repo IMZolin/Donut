@@ -1,6 +1,11 @@
-.vs/
-Debug/
-memallocator.sln
-memallocator.vcxproj
-memallocator.vcxproj.filters
-memallocator.vcxproj.user
+/Debug
+/Release
+/.vs
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.suo
+*.db 
+/.idea
+/cmake-build-debug
